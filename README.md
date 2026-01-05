@@ -39,3 +39,8 @@ The system uses a relational model to maintain data integrity:
 
 You can download the full project files here:  
 [Google Drive Link](https://drive.google.com/drive/folders/1X3QDRAApMDR1GpbzHSt64-Kj453Aucrp?usp=drive_link)
+
+##  Project Demo Video
+
+You can watch the full project demonstration video here:  
+[Watch Demo Video](https://drive.google.com/file/d/11iOPt4Ml0i2cHSgqznZE3bUoJrQxRNCE/view?usp=drive_link)
